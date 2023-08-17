@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2FXQuBYgivWLElH8wqpE4wxlYJSDsN+nuMjgG+qGbyZz0q6fjDaza90gfloIIOR07iipAR6d+U6Capl5D1slHw==",
+  "success": true,
+  "projectFilePath": "D:\\ALL\\M_Projects\\Git_MyOpenSource_Projects\\Whale_AWS_S3Browser\\Whale_AWS_S3Browser\\Whale_AWS_S3Browser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\awssdk.core\\3.7.105.13\\awssdk.core.3.7.105.13.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\awssdk.s3\\3.7.103.21\\awssdk.s3.3.7.103.21.nupkg.sha512"
+  ],
+  "logs": []
+}
