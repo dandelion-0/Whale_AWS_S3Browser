@@ -57,8 +57,6 @@ Whale AWS S3 Browser was developed using the following libraries and frameworks:
 - [AWS SDK for .NET](https://aws.amazon.com/sdk-for-net/)
 - [WinForms](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-7.0&viewFallbackFrom=net-desktop-5.0)
 
-Special thanks to the contributors who have made this project possible.
-
 ## Contact
 
 For any questions or inquiries, please contact the project maintainer at [dandelion00@tutanota.com]
