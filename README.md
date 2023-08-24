@@ -64,6 +64,3 @@ Special thanks to the contributors who have made this project possible.
 For any questions or inquiries, please contact the project maintainer at [dandelion00@tutanota.com]
 
 Feel free to visit our project page on GitHub: [Whale AWS S3 Browser](https://github.com/dandelion-0/Whale_AWS_S3Browser)
-
-![Whale AWS S3 Browser](![images](https://github.com/dandelion-0/Whale_AWS_S3Browser/assets/142485526/4b801ac1-14bd-4380-ae97-3f3f4f2a0b30)
-)
