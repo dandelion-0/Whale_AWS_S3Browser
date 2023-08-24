@@ -17,7 +17,7 @@ Whale AWS S3 Browser is a C# application developed to browse AWS S3 Buckets usin
 
 1. Clone the repository:
 
-<b>bash</b><br>
+bash<br>
 git clone https://github.com/dandelion-0/Whale_AWS_S3Browser.git
 
 2. Open the project in Visual Studio.
