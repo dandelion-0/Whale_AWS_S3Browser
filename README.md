@@ -1,6 +1,5 @@
 # Whale_AWS_S3Browser
 
-![AWS S3]([https://example.com/path/to/your/image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fconnect.nuxeo.com%2Fnuxeo%2Fsite%2Fmarketplace%2Fpackage%2Famazon-s3-online-storage&psig=AOvVaw3zLRQnBO8ADBapiI5cUbiB&ust=1692960253897000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCPCd_MCP9YADFQAAAAAdAAAAABAE))
 Whale AWS S3 Browser is a C# application developed to browse AWS S3 Buckets using a WinForms-based user interface. It provides various features to manage your S3 Buckets efficiently.
 
 ## Features
@@ -66,4 +65,5 @@ For any questions or inquiries, please contact the project maintainer at [dandel
 
 Feel free to visit our project page on GitHub: [Whale AWS S3 Browser](https://github.com/dandelion-0/Whale_AWS_S3Browser)
 
-![Whale AWS S3 Browser]()
+![Whale AWS S3 Browser](![images](https://github.com/dandelion-0/Whale_AWS_S3Browser/assets/142485526/4b801ac1-14bd-4380-ae97-3f3f4f2a0b30)
+)
