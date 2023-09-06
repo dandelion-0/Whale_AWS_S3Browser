@@ -22,7 +22,7 @@ namespace Whale_AWS_S3Browser
         {
             //getbuckets_of_awsaccount();
 
-            // To get all regionenddpoint Names in combobox
+            // To list all regionenddpoint Names in combobox while MainUI Form initalize
             List_RegionEndPoint_Names();
         }
 
@@ -35,7 +35,6 @@ namespace Whale_AWS_S3Browser
 
 
         // To list all RegionEndpoint name in combobox 
-        // Running it while FormLoads 
         private void List_RegionEndPoint_Names()
         {
             try
