@@ -350,7 +350,7 @@ namespace Whale_AWS_S3Browser
             }
         }
 
-        //To Create Directory in S3Bucket by taking String input from textbox on UI
+        //To Create Directory in S3Bucket 
         private async void CreateDir(string folderName)
         {
             try
