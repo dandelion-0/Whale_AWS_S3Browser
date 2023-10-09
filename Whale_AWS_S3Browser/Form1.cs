@@ -458,7 +458,6 @@ namespace Whale_AWS_S3Browser
                 MessageBox.Show(ex.Message);
             }
         }
-
         //To Delete Objects from S3Bucket
         private async void btn_Delete_Click(object sender, EventArgs e)
         {
